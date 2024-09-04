@@ -1,0 +1,9 @@
+Saket Thakur works at this company
+Data Mining Engineer
+i3access / AccessAssist - (different branches)
+Developed and implemented chatbots using NLTK and spaCy, enhancing their capabilities with advanced NLP techniques.
+Utilized a fine-tuned Falcon model to build chatbots capable of processing and responding to documents effectively.
+Employed web scraping techniques using Selenium and Beautiful Soup (BS4) to gather and manipulate data.
+Created and managed bookmarklets for efficient data extraction and integration.
+Developed backend applications using Flask to support data processing and chatbot functionalities.
+Gained experience in video editing and manipulation using FFmpeg for various multimedia projects.
